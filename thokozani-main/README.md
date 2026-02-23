@@ -1,2 +1,2 @@
-# kumbukani
+# thokozani
 css
