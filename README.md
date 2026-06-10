@@ -1,2 +1,2 @@
-# upis_management_system
+# Tee's_management_system
 CHAIN MANAGEMENT SYSTEM
